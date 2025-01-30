@@ -11363,8 +11363,8 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "ASMODEUS DO 7",
+    Name = "ASMODEUS",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://119980140458596",
     Time = 5
-})
+})u
